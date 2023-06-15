@@ -1,3 +1,3 @@
-# BOOTSTRAPT ÖDEVİ
+# BOOTSTRAP ÖDEVİ
 
-![Alt text](bootstrapt_odev.gif)
+![Alt text](bootstrap_odev.gif)
